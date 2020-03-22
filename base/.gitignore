@@ -1,12 +1,3 @@
-*~
+.gradle/
 
-/.project
-/.classpath
-/.settings
-
-/.idea
-/*.iml
-
-/.gradle
-
-/build
+build/
